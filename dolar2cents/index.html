@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dolar 2 Cents</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+    <header>
+        <h1 id="titulo-principal">Dolar 2 Cents</h1>
+    </header>
+    <main>
+        <p id="p-la-dolar"><label for="idolar" id="la-dolar">Valor em dolares</label></p>
+        <p id="p-in-dolar"><input type="text" name="dolar" id="idolar" maxlength="8" autocomplete="off"></p>
+        <button class="btn-converter">Converter</button>
+        <table id="tabela-cents">
+            <thead>
+                <tr>
+                    <th>
+                        Moeda
+                    </th>
+                    <th>
+                        Quantidade
+                    </th>
+                </tr>
+            </thead>
+            <tbody id="corpo-tabela" class="corpo-tabela-cl"></tbody>
+        </table>   
+    </main>
+
+    <script src="assets/js/main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,104 @@
+@charset "UTF-8";
+
+
+@font-face {
+    font-family: 'persona';
+    src: url(../fontes/personaaura.otf);
+}
+
+@font-face {
+    font-family: 'notevela';
+    src: url(../fontes/notevela.otf);
+}
+
+:root{
+    --titulo: "persona", sans-serif;
+    --cordel: "notevela", sans-serif;
+}
+
+header{
+    background-color: black;
+    padding: 15px;
+    margin: -8px -8px 10px -8px;
+}
+
+header > h1{
+    font-family: var(--titulo);
+    font-size: clamp(1.6em, 6vw, 3em);
+    color: white;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+header > p{
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+header a{
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+header a:hover{
+    color: rgba(255, 255, 0, 0.336);
+}
+
+main{
+    padding: 10px;
+    background-position: center top;
+    background-size: cover;
+}
+
+main p{
+    font-family: var(--cordel);
+    font-style: italic;
+    font-size: clamp(16px, 5vw, 30px);
+
+}
+
+div#joaninha{
+    background-image: url(../imagens/background001.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    padding: 30px;
+    margin: 0px -18px 0px -18px;
+}
+
+div#cartas{
+    background-image: url(../imagens/background002.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    padding: 30px;
+    margin: 0px -18px 0px -18px;
+}
+
+div.fundo_texto{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.562);
+    margin-left: -20px;
+    width: max-content;
+    padding: 0px 10px 0px 10px;
+}
+
+footer{
+    color: white;
+    background-color: black;
+    margin: 0px -8px -18px -9px;
+    text-align: center;
+}
+
+footer a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+footer a:hover{
+    color: rgb(23, 23, 63);
+}
+

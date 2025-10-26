@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    height: 100px;
+    padding-top: 30px;
+    color: #000000;
+    text-align: center;
+}
+
+body{
+    background-color: #8AA6A3;
+}
+
+#sect-input-num{
+    width: 175px;
+    margin: auto;
+}
+
+.min-cl{
+    padding-top: 20px;
+}
+
+.max-cl{
+    padding-top: 20px;
+}
+
+#btn-gerar{
+    width: 175px;
+    padding: 5px;
+    margin-top: 20px;
+    border: none;
+    
+    background-color: #1e2726;
+    color: white;
+    box-shadow: 1px 1px 3px black;
+}
+
+#btn-gerar:hover{
+    background-color: #101414;
+    cursor: pointer;
+}
+
+#btn-gerar:active{
+    transform: scale(0.97);
+}
+
+#caixa-resultado{
+    width: 100px;
+    color: black;
+    text-align: center;
+    margin: auto;
+}
+
+#resultado{
+    margin-top: 20px;
+    font-size: 3em;
+}
