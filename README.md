@@ -5,29 +5,41 @@ Atualmente estou focado em **HTML, CSS e JavaScript**, construindo projetos prá
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🌐 HTML & CSS
+Treinos focados em estrutura, layout e responsividade.
 
-### HTML - CSS
--  **Site com responsividade**  
-  🔗 <>
--  **Treino efeito paralax**  
-  🔗 <>
--  **Tela de login com media query**  
-  🔗 <>
--  **Treino de iframe**
-  🔗 <>
+- 🧱 **Site Responsivo**  
+  Layout responsivo desenvolvido com HTML e CSS.  
+  🔗 [Ver Projeto](link)
+- 🌄 **Efeito Parallax**  
+  Treino de efeito visual com imagens e CSS.  
+  🔗 [Ver Projeto](link)
+- 🔐 **Tela de Login com Media Query**  
+  Exemplo de interface com design adaptativo.  
+  🔗 [Ver Projeto](link)
+- 🧩 **Treino de Iframe**  
+  🔗 [Ver Projeto](link)
 
-### Foco em JavaScript
-- **Conversor binario p/ decimal** - Manipulação do DOM
-  🔗 <>
-- **border-radius** - Usando JS para vizualizar diferentes border-radius
-  🔗 <>
-- **Conversor dolar p/ cents**
-  🔗 <>
-- **Gerador de numero aleatório**
-  🔗 <>
-- **Calculadora** - Treino de lógica, factory functions e manipulação do DOM
-  🔗 <>
+---
+
+## ⚡ Foco em JavaScript
+Projetos para praticar lógica e manipulação do DOM.
+
+- 🔢 **Conversor Binário → Decimal**  
+  Manipulação do DOM e conversão de números.  
+  🔗 [Ver Projeto](link)
+- 🎨 **Border-Radius Visualizer**  
+  Ferramenta feita em JS para visualizar diferentes valores de `border-radius`.  
+  🔗 [Ver Projeto](link)
+- 💰 **Conversor Dólar → Centavos**  
+  Conversão simples com JS e entrada de dados.  
+  🔗 [Ver Projeto](link)
+- 🎲 **Gerador de Número Aleatório**  
+  Uso de funções JS e manipulação de eventos.  
+  🔗 [Ver Projeto](link)
+- 🧮 **Calculadora**  
+  Projeto com foco em lógica, factory functions e manipulação do DOM.  
+  🔗 [Ver Projeto](link)
 
 ---
 
