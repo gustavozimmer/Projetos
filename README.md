@@ -50,4 +50,4 @@ HTML • CSS • JavaScript • Git • GitHub • VS Code
 
 ## 📫 Contato
 📧 E-mail: gustavomzimmer@gmail.com  
-💼 <a href="https://www.linkedin.com/in/gustavo-zimmer/">LinkedIn</a> 
+💼 <a href="https://www.linkedin.com/in/gustavo-zimmer/" target="_blank">LinkedIn</a> 
